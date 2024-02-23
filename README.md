@@ -1,2 +1,7 @@
 # chess-melee-solver
-Solver for chess melee puzzles
+Script to solve chess melee puzzles.
+
+Run with:
+```sh
+npx ts-node solver.ts
+```
